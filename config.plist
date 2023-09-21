@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Using</key>
+	<true/>
+<key>loca</key>
+<array>
+    <string>GMT+7</string>
+    <string>GMT+8</string>
+</array>
+<key>unityz</key>
+	<string>https://eu9.asia/app</string>
+<key>https://eu9.asia/app</key>
+	<string>abddd</string>
+</dict>
+</plist>
